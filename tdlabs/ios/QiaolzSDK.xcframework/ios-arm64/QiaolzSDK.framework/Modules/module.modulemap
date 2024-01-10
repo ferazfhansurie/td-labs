@@ -1,0 +1,6 @@
+framework module QiaolzSDK {
+  umbrella header "QiaolzSDK.h"
+  export *
+
+  module * { export * }
+}

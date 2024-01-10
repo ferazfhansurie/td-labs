@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "121089890526",
+    "project_id": "buoyant-voyage-302308",
+    "storage_bucket": "buoyant-voyage-302308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121089890526:android:397681ab2db339312dca4f",
+        "android_client_info": {
+          "package_name": "com.tedaghinternational.tdlabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121089890526-lrfpcjio8psj5bkeebd9gf6eucueju0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tedaghinternational.tdlabs",
+            "certificate_hash": "d6f895dc3487e0b15be3fd83e8a07a0003bfed17"
+          }
+        },
+        {
+          "client_id": "121089890526-ot74boovqedpl9j442t0j6svkf4gpamt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tedaghinternational.tdlabs",
+            "certificate_hash": "7b083c5190c4547751c3d3a00d62e27ec334609f"
+          }
+        },
+        {
+          "client_id": "121089890526-t760bjl4hqbhtpnpo0cs088sghm9pui3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlycJubTsIQs197f7opZuDdOgzA-J-I80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121089890526-t760bjl4hqbhtpnpo0cs088sghm9pui3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121089890526-pfjue46rgge9sqg4uk4arf90ie9t1i24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tedainternational.tdlabs",
+                "app_store_id": "1554227226"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121089890526:android:9573795141aba62d2dca4f",
+        "android_client_info": {
+          "package_name": "com.tedainternational.tdlabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121089890526-2pl46sa11c22nl8bam46dbbtujk7638u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tedainternational.tdlabs",
+            "certificate_hash": "f5c4cffb13af6d4872b7f36bface9169b4deb612"
+          }
+        },
+        {
+          "client_id": "121089890526-hlsq394rdfemtf5gdavrk16vm330i6r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tedainternational.tdlabs",
+            "certificate_hash": "7b083c5190c4547751c3d3a00d62e27ec334609f"
+          }
+        },
+        {
+          "client_id": "121089890526-r004gqah2gh7tdro7kkrc56e415dpltv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tedainternational.tdlabs",
+            "certificate_hash": "d6f895dc3487e0b15be3fd83e8a07a0003bfed17"
+          }
+        },
+        {
+          "client_id": "121089890526-t760bjl4hqbhtpnpo0cs088sghm9pui3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlycJubTsIQs197f7opZuDdOgzA-J-I80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121089890526-t760bjl4hqbhtpnpo0cs088sghm9pui3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121089890526-pfjue46rgge9sqg4uk4arf90ie9t1i24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tedainternational.tdlabs",
+                "app_store_id": "1554227226"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

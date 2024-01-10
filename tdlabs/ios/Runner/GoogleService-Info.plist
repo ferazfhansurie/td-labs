@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>121089890526-0184j16gapn65t8ipnekr78cp0t5peor.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC68y_4HGV5ZilPhnJ0lZuSrc4Hc_yxngY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121089890526</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tedainternational.tdlabs</string>
+	<key>PROJECT_ID</key>
+	<string>buoyant-voyage-302308</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buoyant-voyage-302308.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121089890526:ios:2a883facbd453d6f2dca4f</string>
+</dict>
+</plist>
